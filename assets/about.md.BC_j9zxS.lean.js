@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,j as o}from"./chunks/framework.DOBovUZQ.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),s={name:"about.md"},n=o("p",null,"关于我们",-1),r=[n];function c(_,d,i,p,l,u){return a(),e("div",null,r)}const h=t(s,[["render",c]]);export{f as __pageData,h as default};
